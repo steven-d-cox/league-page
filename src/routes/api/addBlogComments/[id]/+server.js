@@ -33,7 +33,7 @@ export async function POST({request, params}) {
     }
 
     let fields = {
-        "blogID": {},
+        "blogId": {},
         "comment": {},
         "author": {}
     };
