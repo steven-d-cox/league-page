@@ -130,7 +130,7 @@ export const managers = [
     "name": "Steven Cox",  
     "location": "Chicago",
     "bio": "If you ain't first, you're last—unless you’re second. I’ll take second.",
-    "photo": "/managers/name.jpg",
+    "photo": "/managers/steven.jpeg",
     "fantasyStart": 2009,
     "favoriteTeam": "cin",
     "mode": "Win Now",
